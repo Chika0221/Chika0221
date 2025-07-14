@@ -1,6 +1,4 @@
 ## 🌟 **About Me**
-
- 
 <table>
 <tr>
 <td width="200" align="center">
@@ -13,9 +11,9 @@
 🚀 **Flutter Developer** passionate about mobile development  
 
 🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Building beautiful mobile applications  
+<!-- 💼 **Focus:** Building beautiful mobile applications  
 ☕ **Powered by:** Coffee and curiosity  
-🎯 **Goal:** Creating amazing user experiences  
+🎯 **Goal:** Creating amazing user experiences   -->
 
 </td>
 </tr>
@@ -46,19 +44,19 @@
 <img src="https://skillicons.dev/icons?i=supabase,firebase" />
 
 ### 🔧  **Development Tools**
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github" />
 
 </td>
 <td width="50%" align="center" valign="top">
 
-### 🗄️  **Database**
-<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
+<!-- ### 🗄️  **Database**
+<img src="https://skillicons.dev/icons?i=postgresql,sqlite" /> -->
 
-### 🎨  **Design**
-<img src="https://skillicons.dev/icons?i=figma,xd,photoshop" />
+<!-- ### 🎨  **Design**
+<img src="https://skillicons.dev/icons?i=figma,xd,photoshop" /> -->
 
 ### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=js,html,css" />
 
 </td>
 </tr>
