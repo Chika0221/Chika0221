@@ -54,6 +54,7 @@
 
 <!-- ### 🎨  **Design**
 <img src="https://skillicons.dev/icons?i=figma,xd,photoshop" /> -->
+<!-- まだ途中 -->
 
 ### 💻  **Languages & Frameworks**
 <img src="https://skillicons.dev/icons?i=js,html,css" />
