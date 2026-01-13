@@ -23,12 +23,12 @@
 
 ## 📊 **GitHub Analytics**
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=user&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
-</div>
+<!-- <div align="center">
+  <img src="https://streak-stats.demolab.com?user=Chika0221&theme=github-dark-blue&date_format=%5BY.%5Dn.j" alt="GitHub Streak"/>
+</div> -->
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=user&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chika0221&theme=github-compact" />
 </div>
 
 ## 🛠️ **Tech Stack**
