@@ -21,19 +21,7 @@
 
 </div>
 
-<!-- 
 
-## 📊 **GitHub Analytics**
-
-<!-- <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Chika0221&theme=github-dark-blue&date_format=%5BY.%5Dn.j" alt="GitHub Streak"/>
-</div> -->
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chika0221&theme=github-compact" />
-</div>
-
--->
 
 
 ## 🛠️ **Tech Stack**
