@@ -21,6 +21,7 @@
 
 </div>
 
+<!-- 
 ## 📊 **GitHub Analytics**
 
 <!-- <div align="center">
@@ -30,6 +31,8 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chika0221&theme=github-compact" />
 </div>
+-->
+
 
 ## 🛠️ **Tech Stack**
 
